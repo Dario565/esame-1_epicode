@@ -1,0 +1,197 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.nav-bar{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.medium-logo{
+    max-width: 150px;
+}
+.end-nav{ display: flex;
+     gap: 15px;
+    
+}
+
+.nav-button {
+    border-radius: 99em;
+}
+.utent-img{border-radius: 99em;}
+
+.icon-button{
+    cursor: pointer;
+}
+
+
+
+
+.section-1{
+    max-width: 70%;
+    max-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.section-2{display: flex;
+    max-width: 30%;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+.main{display: flex;
+    justify-content: space-around;
+    
+    
+}
+.Intestation{ 
+    display: flex;
+    gap: 20px;
+
+}
+.Intestation h4{
+    color: gray;
+    cursor: pointer;
+    border-bottom: 1px solid black;
+}
+
+.Intestation :hover{
+    color: black;
+}
+.news-title{
+    display: flex;
+}
+.news-title figure{
+   margin: 22px 5px 0 0;
+    
+    max-width: 15px;
+}
+.news-title img{
+    max-width: 15px;
+}
+
+.news-body{
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.news-body p{
+    margin-top: 0;
+    
+}
+.news-body h2 {
+    margin-top: 0;
+}
+.news-body h5{
+    margin-top: 0;
+
+}
+.read-time{
+    display: flex;
+    gap: 250px;
+}
+.news-align{padding-top: 100px;
+    display: flex;
+    align-items: center;
+}
+.steps-img {padding-left: 20px;
+    max-width: 200px;
+}
+
+
+.sidebar-head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sidebar-head img{
+    max-width: 50px;
+}
+
+.follow-button{
+    border-radius: 99em;
+    cursor: pointer;
+    
+}
+.twitter-icon{
+    color: #1AB2E8;
+   max-width: 30px;
+   
+}
+.p1-side{
+    padding-top: 50px;
+    color: gray;
+    cursor: pointer;
+
+}
+.p1-side :hover{
+    color: black
+}
+
+.button-container{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 250px;
+    gap: 20px;
+    padding-top: 50px;
+}
+.topic-button{
+    border-radius: 99em;
+    border: 1px solid grey;
+    cursor: pointer;
+}
+.infra{
+    padding-top: 35px;
+}
+.img-descr{
+    display: flex;
+    gap: 15px;
+    align-items: first baseline;
+}
+.micro-img{
+   
+    border-radius: 99em;
+
+}
+
+.sub{
+    color: gray;
+}
+.follow-button{
+    margin-left: 20px;
+}
+.in{
+    color: gray;
+}
+
+.saved-head{
+    display: flex;
+}
+.saved-head figure{
+    margin-left: 0;
+}
+.ellen-img{border-radius: 99em;}
+
+.article{
+    display: flex;
+    flex-direction: column;
+    max-width: 250px;
+   
+}
+.article-text{
+    margin-top: 0;
+}
+
+.start{
+    padding-top: 20px;
+}
+
+.final-h5{
+    margin-top: 0;
+}
+
+
